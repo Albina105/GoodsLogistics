@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="sqlalchemy" />
+          <option value="sqladmin" />
+          <option value="greenlet" />
+          <option value="python-dotenv" />
+          <option value="passlib" />
+          <option value="bcrypt" />
+          <option value="python-jose" />
+          <option value="langchain-core" />
+          <option value="langchain-ollama" />
+          <option value="streamlit" />
+          <option value="requests" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
